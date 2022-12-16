@@ -5,6 +5,9 @@ import zoo.Animale;
 public class Volatile extends Animale {
     private int apetura_alare; //centimetri
 
+    public Volatile() {
+    }
+
     public Volatile(String nome, String cibo_preferito, int età, String data_ingresso_zoo, int peso, int altezza, int apetura_alare) {
         super(nome, cibo_preferito, età, data_ingresso_zoo, peso, altezza);
         this.apetura_alare = apetura_alare;
