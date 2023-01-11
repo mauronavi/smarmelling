@@ -2,7 +2,7 @@
 ## (Prototipo di gioco in stile dungeon crawler testuale)
 
 ## Indice dei contenuti
-* [Informazioni Generali](#general-info)
+* [Informazioni Generali]
 * [Tecnologie utilizzate](#technologies)
 * [Setup e avvio](#setup)
 
