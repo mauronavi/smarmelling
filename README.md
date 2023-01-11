@@ -3,8 +3,8 @@
 
 ## Indice dei contenuti
 * [Informazioni Generali](#Informazioni-Generali)
-* [Tecnologie utilizzate](#technologies)
-* [Setup e avvio](#setup)
+* [Tecnologie utilizzate](#Tecnologie-utilizzate)
+* [Avvio](#Avvio)
 
 
 ## Informazioni Generali
@@ -20,5 +20,5 @@ Il progetto è stato implementato utilizzando il linguaggio di programmazione JA
 Nello specifico è richiesta una versione uguale o superiore a Java 8.
 
 
-## Setup e avvio
+## Avvio
 Per avviare il gioco, basta compilare ed avviare il file Application.java
