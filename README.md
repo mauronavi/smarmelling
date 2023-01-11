@@ -6,7 +6,7 @@
 * [Tecnologie utilizzate](#Tecnologie)
 * [Setup e avvio](#Setup-e-avvio)
 
-## General info
+## Informazioni Generali
 Pawtropolis è la versione di base e giocabile di un'avventura testuale ambientata in un luogo immaginario chiamato Pawtropolis.
 Il giocatore può:
 -interagire col sistema tramite comandi testuali e riceverà feedback da esso nello stesso modo;
