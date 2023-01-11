@@ -1,10 +1,10 @@
 # PAWTROPOLIS
 ## (Prototipo di gioco in stile dungeon crawler testuale)
 
-## Table of contents
-* [Informazioni Generali](#general-info)
-* [Tecnologie utilizzate](#technologies)
-* [Setup e avvio](#setup)
+## Indice dei contenuti
+* [Informazioni Generali](#Informazioni-generali)
+* [Tecnologie utilizzate](#Tecnologie)
+* [Setup e avvio](#Setup-e-avvio)
 
 ## General info
 Pawtropolis è la versione di base e giocabile di un'avventura testuale ambientata in un luogo immaginario chiamato Pawtropolis.
